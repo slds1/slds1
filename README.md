@@ -1,3 +1,2 @@
 - SalupovTeam
 - real jelbrek creatir
-- hate everyone
