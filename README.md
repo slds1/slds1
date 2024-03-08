@@ -1,11 +1,11 @@
-# s0meyosh1no
+# S0meyosh1no
 someone
 
 
-| projects                  |                     |
-|-------------------------------------------------|
-| Zalup1nJB                 | 2.0 Released        |
-| GarlicMonster             | not maintained      |
-| Ahmelio                   | Suspended           |
-| Ahmelio17                 | beta 0.0.4 Released |
+| Project        | Status          |
+|----------------|-----------------|
+| Zalup1nJB      | 2.0 released    |
+| GarlicMonster  | not maintained  |
+| Ahmelio        | suspended       |
+| Ahmelio17      | 0.0.4 released  |
 
