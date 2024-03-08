@@ -1,3 +1,3 @@
-# jelbrek creator
-- SalupovTeam
+# SalupovTeam
+- We made things for people to love
 
