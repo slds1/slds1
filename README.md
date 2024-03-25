@@ -4,6 +4,7 @@ someone
 
 | Project        | Status                  |
 |----------------|-------------------------|
+| Kokaine        | 1.0 Released!!!         |
 | Zalup1n X      | Soon on github          |
 | Zalup1nJB      | not maintained          |
 | GarlicMonster  | not maintained          |
@@ -11,7 +12,7 @@ someone
 | Ahmelio17      | 0.0.4 released          |
 | Anlocker       | Not maintained          |
 | SalupovUnlock  | Soon on github          |
-| SalupovCloud.  | https://salupovcloud.fun|
+| SalupovCloud   | https://salupovcloud.fun|
 
 
 
