@@ -5,7 +5,6 @@ someone
 | Project        | Status                  |
 |----------------|-------------------------|
 | Kokaine        | 1.0 Released!!!         |
-| Zalup1n X      | Soon on github          |
 | Zalup1nJB      | not maintained          |
 | GarlicMonster  | not maintained          |
 | Ahmelio        | suspended               |
