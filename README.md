@@ -4,13 +4,10 @@ someone
 
 | Project        | Status                  |
 |----------------|-------------------------|
-| Kokaine        | 1.0 Released!!!         |
-| Zalup1nJB      | not maintained          |
+| Zalup1nJB      | Final update, 2.1       |
 | GarlicMonster  | not maintained          |
-| Ahmelio        | suspended               |
-| Ahmelio17      | 0.0.4 released          |
-| Anlocker       | Not maintained          |
-| SalupovUnlock  | Soon on github          |
+| Ahmelio        | not maintained          |
+| Ahmelio17      | 0.0.6 released          |
 | SalupovCloud   | https://salupovcloud.fun|
 
 
