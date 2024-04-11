@@ -16,4 +16,3 @@ someone
 
 
 
-![Alt Text](giphy.gif)
