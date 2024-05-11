@@ -5,11 +5,12 @@ iOS and Android dev
 
 | Project        | Status                      |
 |----------------|-----------------------------|
-| Zalup1nJB      | Final update, 2.1           |
 | GarlicMonster  | not maintained              |
 | Ahmelio        | not maintained              |
-| Ahmelio17      | 0.0.6 released              |
-| SalupovCloud   | currently there is no mirror|
+| Ahmelio17      | HAPPY 2.0!!!!!!             |
+| SalupovCloud   | Only for SalupovTeam LLC    |
+| Website        | In development!             |
+| SaluBoot       | In-House testing            |
 
 ## Something
 
@@ -18,5 +19,12 @@ iOS and Android dev
 - same with C
 - i like 🍣🍣
 
-
+## Join us!!!!
+Join SalupovTeam LLC right now!
+[CLICK HERE](https://t.me/salupovteambusiness)
+[CLICK HERE](https://t.me/salupovteambusiness)
+[CLICK HERE](https://t.me/salupovteambusiness)
+[CLICK HERE](https://t.me/salupovteambusiness)
+[CLICK HERE](https://t.me/salupovteambusiness)
+[CLICK HERE](https://t.me/salupovteambusiness)
 
