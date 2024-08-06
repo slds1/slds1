@@ -3,21 +3,12 @@ iOS and Android dev
 
 ## Amazing table
 
-| Project        | Status                      |
-|----------------|-----------------------------|
-| GarlicMonster  | not maintained              |
-| Ahmelio        | not maintained              |
-| Ahmelio17      | HAPPY 2.0!!!!!!             |
-| SalupovCloud   | Only for SalupovTeam LLC    |
-| Website        | In development!             |
-| SaluBoot       | In-House testing            |
-
-## Something
-
-- i know swift for 0%
-- i hate python
-- same with C
-- i like 🍣🍣
+| Project        | Status                                      |
+|----------------|---------------------------------------------|
+| QuickSign      | In development                              |
+| Ahmelio        | not maintained                              |
+| SalupovCloud   | Only for SalupovTeam LLC                    |
+| Website        | [open](https://salupovteam.com)             |
 
 ## Join us!!!!
 Join SalupovTeam LLC right now!
